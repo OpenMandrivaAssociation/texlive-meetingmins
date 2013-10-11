@@ -1,4 +1,4 @@
-# revision 31878
+# revision 27806
 # category Package
 # catalog-ctan /macros/latex/contrib/meetingmins
 # catalog-date 2012-09-24 22:36:26 +0200
@@ -38,9 +38,12 @@ user-selected portions suppressed from printing.
 %{_texmfdistdir}/tex/latex/meetingmins/meetingmins.cls
 %doc %{_texmfdistdir}/doc/latex/meetingmins/README
 %doc %{_texmfdistdir}/doc/latex/meetingmins/meetingmins.pdf
+%doc %{_texmfdistdir}/doc/latex/meetingmins/samples/agenda.pdf
 %doc %{_texmfdistdir}/doc/latex/meetingmins/samples/agenda.tex
+%doc %{_texmfdistdir}/doc/latex/meetingmins/samples/chair.pdf
 %doc %{_texmfdistdir}/doc/latex/meetingmins/samples/chair.tex
 %doc %{_texmfdistdir}/doc/latex/meetingmins/samples/department.min
+%doc %{_texmfdistdir}/doc/latex/meetingmins/samples/minutes.pdf
 %doc %{_texmfdistdir}/doc/latex/meetingmins/samples/minutes.tex
 #- source
 %doc %{_texmfdistdir}/source/latex/meetingmins/meetingmins.dtx
