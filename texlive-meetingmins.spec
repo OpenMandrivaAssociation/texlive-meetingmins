@@ -1,4 +1,4 @@
-# revision 27806
+# revision 31878
 # category Package
 # catalog-ctan /macros/latex/contrib/meetingmins
 # catalog-date 2012-09-24 22:36:26 +0200
@@ -6,7 +6,7 @@
 # catalog-version 1.5
 Name:		texlive-meetingmins
 Version:	1.5
-Release:	1
+Release:	2
 Summary:	Format written minutes of meetings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/meetingmins
