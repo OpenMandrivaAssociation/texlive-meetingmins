@@ -6,7 +6,7 @@
 # catalog-version 1.5
 Name:		texlive-meetingmins
 Version:	1.5
-Release:	5
+Release:	6
 Summary:	Format written minutes of meetings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/meetingmins
