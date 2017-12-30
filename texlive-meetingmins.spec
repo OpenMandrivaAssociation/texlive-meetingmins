@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version 1.5
 Name:		texlive-meetingmins
-Version:	1.5
-Release:	11
+Version:	1.6
+Release:	1
 Summary:	Format written minutes of meetings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/meetingmins
