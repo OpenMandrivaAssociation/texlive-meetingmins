@@ -1,6 +1,6 @@
 Name:		texlive-meetingmins
 Version:	31878
-Release:	1
+Release:	2
 Summary:	Format written minutes of meetings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/meetingmins
