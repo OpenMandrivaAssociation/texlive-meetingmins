@@ -3,7 +3,7 @@ Version:	31878
 Release:	2
 Summary:	Format written minutes of meetings
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/meetingmins
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/meetingmins
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/meetingmins.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/meetingmins.doc.r%{version}.tar.xz
